@@ -1,0 +1,16 @@
+body {
+    background:bisque
+}
+/*kebab case*/ 
+.display-result-red {
+    color: rgb(235, 94, 94);
+}
+
+
+.flipped {
+    transform: rotate(0.5turn);
+}
+
+.ghost-emoji { 
+font-size: 5rem;
+}
